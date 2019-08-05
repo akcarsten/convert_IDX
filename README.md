@@ -7,7 +7,7 @@ Read and write IDX image datasets e.g. MNIST
 Clone the repository directly from the Github webpage and run the following command(s) in your terminal:
 
 ```
-git clone https://github.com/akcarsten/bitfinex_api.git
+git clone https://github.com/akcarsten/convert_IDX.git
 ```
 
 Then go to the folder to which you cloned the repository and run:
