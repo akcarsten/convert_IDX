@@ -4,6 +4,12 @@ import os
 import numpy as np
 import matplotlib.pyplot as plt
 
+# This code is partially based on
+# the following GitHub repo:
+# https://github.com/gskielian/JPG-PNG-to-MNIST-NN-Format
+# and this well written Medium article:
+# https://medium.com/@mannasiladittya/converting-mnist-data-in-idx-format-to-python-numpy-array-5cb9126f99f1
+# which outlines the underlying concept of the IDX format in more detail.
 
 class Idx:
 

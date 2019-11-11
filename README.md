@@ -1,6 +1,6 @@
 # convert_IDX
 
-This is a small Python package which allows you to easily read and write IDX image datasets.
+This is a small Python package which allows you to easily read and write IDX image datasets. The code is partially based on [this GitHub repo](https://github.com/gskielian/JPG-PNG-to-MNIST-NN-Format) and this well written [Medium article](https://medium.com/@mannasiladittya/converting-mnist-data-in-idx-format-to-python-numpy-array-5cb9126f99f1) which outlines the underlying concept of the IDX format in more detail.
 Probably the most famous dataset stored in the IDX data format is the [MNIST]((http://yann.lecun.com/exdb/mnist/)) dataset by [Yann LeCun](http://yann.lecun.com/). If you are not familiar with the way data is stored in the IDX format it can be tricky to load the data together with its labels. This package provides simple methods which let you read IDX datasets. Also it allows you to create your own datasets with just one line of code. The examples below illustrate the general usage.
 
 ## Installation
